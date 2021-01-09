@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "gkswnsla75!@",
+    "database": "node_study",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "gkswnsla75!@",
+    "database": "node_study",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "gkswnsla75!@",
+    "database": "node_study",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
